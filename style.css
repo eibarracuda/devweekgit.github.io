@@ -145,17 +145,21 @@
     padding-left: 5px;
 }
 
-/* acrescentei ao css 25-nov */
-.exp-left{
+/* acrescentei ao css 26-nov */
+.exp-left,
+.education-left{
     padding-left: 1.5rem;
 }
 
-.exp-right{
+.exp-right,
+.education-right{
     padding-right: 1.5rem;
 }
 
 .exp-left,
-.exp-right{
+.exp-right,
+.education-left,
+.education-right{
     padding-top: 0.7rem;
 }
-/* acrescentei ao css 25-nov */
+/* acrescentei ao css 26-nov */
